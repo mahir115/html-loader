@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=HTML Loader
+Exec=python3 /usr/bin/html-loader %f
+Icon=html-loader
+Type=Application
+Categories=Utility;
+Terminal=false
+NoDisplay=true
+MimeType=text/html;application/xhtml+xml;
